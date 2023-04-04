@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 .title {
   display: flex;
   justify-content: center;
@@ -54,6 +58,7 @@ div.info {
 .info-item {
   text-align: center;
   margin: 5px 0;
+  outline: none;
 }
 
 .info-item b {
